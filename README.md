@@ -38,7 +38,7 @@ Bunch of checklists to do when setting up a new Mac. There must be a way to auto
 <br />
 
 # Tl;dr
-This will install apps available in [Homebrew](https://brew.sh/). See [files](https://github.com/arisacoba/new-mac/blob/main/setup.sh) to be installed
+This will install apps available in [Homebrew](https://brew.sh/). See [files](https://github.com/aaa-te-st/new-mac/blob/main/setup-kat.sh) to be installed
 
 ```
 bash -c "`curl -L https://raw.githubusercontent.com/arisacoba/new-mac/master/setup.sh`"
