@@ -32,3 +32,4 @@ brew install --cask rocket
 # Misc
 brew install --cask spotify
 brew install --cask keycastr
+brew install --cask 1password
